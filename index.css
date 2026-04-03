@@ -1,0 +1,9 @@
+.main {
+  background-image: url("https://i.kym-cdn.com/entries/icons/original/000/041/742/cover3.jpg");
+  text-align: center;
+  padding: 5px;
+  height: 1100px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
